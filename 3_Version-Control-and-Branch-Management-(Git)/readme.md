@@ -20,16 +20,16 @@ dengan cara download di website git atau lewat terminal untuk Linux.
 
 ## Script yang dipelajari pada Git
 Ada beberapa script yang digunakan pada Git yaitu :
-### 1. Git Status
-### 2. Git Add
-### 3. Git Commit
-### 4. Git Reset
-### 5. Git Stash
-### 6. Git Diff
-### 7. Git Checkout
-### 8. Git Push
-### 9. Git Branching
-### 10. Git Merge
+1. Git Status
+2. Git Add
+3. Git Commit
+4. Git Reset
+5. Git Stash
+6. Git Diff
+7. Git Checkout
+8. Git Push
+9. Git Branching
+10. Git Merge
 
 Selain mempelajari script diatas, seorang developer juga harus
 bisa memanajemen projectnya atau branch management agar project
